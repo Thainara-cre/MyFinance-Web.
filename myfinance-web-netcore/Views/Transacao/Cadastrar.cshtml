@@ -1,0 +1,40 @@
+@model myfinance_web_netcore.Models.TransacaoModel
+
+@{
+    ViewData["Title"] = "Cadastrar Transação";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Cadastrar" method="post">
+   
+    <input type="hidden" asp-for="Id"/>
+    
+    <div class="form-group">
+         <input asp-for="Data" type="date" class="form-control" />
+        <span asp-validation-for="Data" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Valor" class="control-label"></label>
+        <input asp-for="Valor" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PlanoContaId" class="control-label"></label>
+        <select asp-for="PlanoContaId" class="form-control" asp-items="Model.ListaPlanoContas">
+            <option value="">Selecione</option>
+        </select>
+        <span asp-validation-for="PlanoContaId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Historico" class="control-label"></label>
+        <input asp-for="Historico" class="form-control" />
+        <span asp-validation-for="Historico" class="text-danger"></span>
+    </div>
+    <br>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    </div>
+</form>
+

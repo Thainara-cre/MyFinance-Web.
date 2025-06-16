@@ -1,0 +1,16 @@
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\bin\Debug\net9.0\myfinance-web-dotnet-infra.deps.json
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\bin\Debug\net9.0\myfinance-web-dotnet-infra.dll
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\bin\Debug\net9.0\myfinance-web-dotnet-infra.pdb
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\myfinance-web-dotnet-infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\myfinance-web-dotnet-infra.AssemblyInfoInputs.cache
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\myfinance-web-dotnet-infra.AssemblyInfo.cs
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\myfinance-web-dotnet-infra.csproj.CoreCompileInputs.cache
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\myfinance-web-dotnet-infra.sourcelink.json
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\myfinance-web-dotnet-infra.dll
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\refint\myfinance-web-dotnet-infra.dll
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\myfinance-web-dotnet-infra.pdb
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\ref\myfinance-web-dotnet-infra.dll
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\bin\Debug\net9.0\myfinance-web-dotnet-domain.dll
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\bin\Debug\net9.0\myfinance-web-dotnet-domain.pdb
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\myfinance-web-dotnet-infra.csproj.AssemblyReference.cache
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\4-)myfinance-web-dotnet-infra\obj\Debug\net9.0\myfinanc.8809030A.Up2Date

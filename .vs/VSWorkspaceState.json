@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\2-)myfinance-web-dotnet-service\\interfaces",
+    "\\3-)myfinance-web-dotnet-domain",
+    "\\3-)myfinance-web-dotnet-domain\\Entities",
+    "\\myfinance-web-netcore",
+    "\\myfinance-web-netcore\\Controllers",
+    "\\myfinance-web-netcore\\Models",
+    "\\myfinance-web-netcore\\Views",
+    "\\myfinance-web-netcore\\Views\\Home",
+    "\\myfinance-web-netcore\\Views\\PlanoConta"
+  ],
+  "SelectedNode": "\\myfinance-web-netcore\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

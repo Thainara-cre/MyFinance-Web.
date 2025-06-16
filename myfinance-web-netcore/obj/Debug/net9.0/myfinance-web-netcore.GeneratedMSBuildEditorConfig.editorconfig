@@ -28,12 +28,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/thain/OneDrive/Documentos/estudos/pos/evolucaoSoftware/MyFinance Web/myfinance-web-netcore/Views/PlanoConta/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm9Db250YVxDYWRhc3RyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thain/OneDrive/Documentos/estudos/pos/evolucaoSoftware/MyFinance Web/myfinance-web-netcore/Views/PlanoConta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbm9Db250YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/thain/OneDrive/Documentos/estudos/pos/evolucaoSoftware/MyFinance Web/myfinance-web-netcore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/thain/OneDrive/Documentos/estudos/pos/evolucaoSoftware/MyFinance Web/myfinance-web-netcore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thain/OneDrive/Documentos/estudos/pos/evolucaoSoftware/MyFinance Web/myfinance-web-netcore/Views/Transacao/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2FvXENhZGFzdHJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thain/OneDrive/Documentos/estudos/pos/evolucaoSoftware/MyFinance Web/myfinance-web-netcore/Views/Transacao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2FvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/thain/OneDrive/Documentos/estudos/pos/evolucaoSoftware/MyFinance Web/myfinance-web-netcore/Views/_ViewImports.cshtml]

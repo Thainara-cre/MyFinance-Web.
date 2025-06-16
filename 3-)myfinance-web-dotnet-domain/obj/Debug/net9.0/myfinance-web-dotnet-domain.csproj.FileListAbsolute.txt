@@ -1,0 +1,12 @@
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\bin\Debug\net9.0\myfinance-web-dotnet-domain.deps.json
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\bin\Debug\net9.0\myfinance-web-dotnet-domain.dll
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\bin\Debug\net9.0\myfinance-web-dotnet-domain.pdb
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\obj\Debug\net9.0\myfinance-web-dotnet-domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\obj\Debug\net9.0\myfinance-web-dotnet-domain.AssemblyInfoInputs.cache
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\obj\Debug\net9.0\myfinance-web-dotnet-domain.AssemblyInfo.cs
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\obj\Debug\net9.0\myfinance-web-dotnet-domain.csproj.CoreCompileInputs.cache
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\obj\Debug\net9.0\myfinance-web-dotnet-domain.sourcelink.json
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\obj\Debug\net9.0\myfinance-web-dotnet-domain.dll
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\obj\Debug\net9.0\refint\myfinance-web-dotnet-domain.dll
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\obj\Debug\net9.0\myfinance-web-dotnet-domain.pdb
+C:\Users\thain\OneDrive\Documentos\estudos\pos\evolucaoSoftware\MyFinance Web\3-)myfinance-web-dotnet-domain\obj\Debug\net9.0\ref\myfinance-web-dotnet-domain.dll
